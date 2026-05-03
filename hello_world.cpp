@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+
 int main(){
     // Переменная для хранения
     std::string name;
