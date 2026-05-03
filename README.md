@@ -367,7 +367,7 @@ git fetch origin
 git rebase origin/main
 ```
 
-<details> <summary>⚠️ Сообщение о конфликте</summary>
+<details> <summary>Сообщение о конфликте</summary>
 <pre>
 Auto-merging hello_world.cpp
 CONFLICT (content): Merge conflict in hello_world.cpp
@@ -442,7 +442,7 @@ git checkout main
 git pull origin main
 git log --oneline --graph --all
 ```
-<details> <summary>📋 Финальная история коммитов</summary>
+<details> <summary></summary> Окончательная история коммитов</summary>
 <pre>
 
 *   63bfa9e (HEAD -> main, origin/main) Merge pull request #2 from barsik20/patch2
