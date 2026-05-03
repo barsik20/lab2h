@@ -1,11 +1,12 @@
 #include <iostream>
 #include <string>
 
-int main(){
-    // Переменная для хранения
+// Main function
+int main() {
+    // user's name
     std::string name;
-    // Ввод имени
     std::cout << "Enter your name: ";
+    // entering your name
     std::cin >> name;
     std::cout << "Hello world from @" << name << std::endl;
     return 0;
